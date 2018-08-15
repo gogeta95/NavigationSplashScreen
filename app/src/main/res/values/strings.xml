@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Navigation Sample</string>
+    <string name="splash_screen">Splash screen</string>
+    <string name="home_screen">Home Screen</string>
+</resources>
